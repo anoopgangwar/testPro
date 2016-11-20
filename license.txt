@@ -1,3 +1,8 @@
 The system cannot find the file specified.
+<<<<<<< HEAD
 dscdcs
 scd
+=======
+tis is licencse
+lllllll
+>>>>>>> 835bdb3424e7057ae4918e76435574945ef354d2
